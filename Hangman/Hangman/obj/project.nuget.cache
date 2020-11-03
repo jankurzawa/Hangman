@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kig7AJS4A0ZCNgpsTmH6TvJDBHcYerPrY2M3fHMk15sXFgKLJcABc11TGAV0IJV4CyImVjsmG5S4Amuu8Ufr9A==",
+  "dgSpecHash": "XdFmfjkBTaGsDzr0QsiL6wS3AirhQ8KIfRUbFxTvBJMJ3oFTp/wprFTHJ4pl8XCIDcaTpLXNwpLW1jE7OhZo0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Hangman\\Hangman\\Hangman.csproj",
+  "projectFilePath": "C:\\Gitrepo\\Hangman\\Hangman\\Hangman\\Hangman.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

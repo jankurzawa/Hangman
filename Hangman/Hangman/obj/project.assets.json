@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Hangman\\Hangman\\Hangman.csproj",
+      "projectUniqueName": "C:\\Gitrepo\\Hangman\\Hangman\\Hangman\\Hangman.csproj",
       "projectName": "Hangman",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Hangman\\Hangman\\Hangman.csproj",
+      "projectPath": "C:\\Gitrepo\\Hangman\\Hangman\\Hangman\\Hangman.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Hangman\\Hangman\\obj\\",
+      "outputPath": "C:\\Gitrepo\\Hangman\\Hangman\\Hangman\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
