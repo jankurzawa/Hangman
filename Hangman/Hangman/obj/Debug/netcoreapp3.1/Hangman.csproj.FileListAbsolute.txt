@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\Admin\source\repos\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Hangman\Hangman\bin\Debug\netcoreapp3.1\countries_and_capitals.txt

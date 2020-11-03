@@ -1,0 +1,8 @@
+jan | 02.11.2020 23:41:24 | 0 | Bucharest
+marek | 02.11.2020 23:42:54 | 0 | Nouakchott
+wer | 02.11.2020 23:52:59 | 10 | Freetown
+arg | 02.11.2020 23:55:31 | 10 | Buenos Aires
+md | 02.11.2020 23:55:57 | 17 | Male
+ter | 02.11.2020 23:59:29 | 40 | Funafuti
+waw | 02.11.2020 23:59:48 | 13 | Bucharest
+utr | 03.11.2020 18:40:43 | 38 | Vaduz
